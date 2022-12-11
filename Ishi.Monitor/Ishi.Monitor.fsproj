@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Program.fs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Ishi.Exo\Ishi.Exo.fsproj" />
+      <ProjectReference Include="..\Ishi.Form\Ishi.Form.fsproj" />
+    </ItemGroup>
+
+</Project>

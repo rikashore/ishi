@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Ishi.Exo", "Ishi.Exo\Ishi.Exo.fsproj", "{34D60AED-032B-4D10-ACBA-99463902DE3F}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Ishi.Form", "Ishi.Form\Ishi.Form.fsproj", "{29639DA4-B0DB-454B-83B1-816024543B69}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Ishi.Monitor", "Ishi.Monitor\Ishi.Monitor.fsproj", "{FB669B4E-AFDF-4B73-9038-F4087E54377E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34D60AED-032B-4D10-ACBA-99463902DE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D60AED-032B-4D10-ACBA-99463902DE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D60AED-032B-4D10-ACBA-99463902DE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D60AED-032B-4D10-ACBA-99463902DE3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29639DA4-B0DB-454B-83B1-816024543B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29639DA4-B0DB-454B-83B1-816024543B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29639DA4-B0DB-454B-83B1-816024543B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29639DA4-B0DB-454B-83B1-816024543B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB669B4E-AFDF-4B73-9038-F4087E54377E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB669B4E-AFDF-4B73-9038-F4087E54377E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB669B4E-AFDF-4B73-9038-F4087E54377E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB669B4E-AFDF-4B73-9038-F4087E54377E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
